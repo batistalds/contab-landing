@@ -1,5 +1,5 @@
 /* =========================================================
-   Contab – Assessoria Contábil
+   SBJ – Assessoria Contábil Ltda
    Interações da página
    ========================================================= */
 
